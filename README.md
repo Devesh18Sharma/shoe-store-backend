@@ -2,11 +2,11 @@
 
 Welcome to Kadam Shoes, the ultimate e-commerce website prototype that offers an exceptional shopping experience! Built with cutting-edge technologies like Strapi, Stripe, Next.js, React.js, Tailwind CSS, and more, this project showcases my expertise in web development and my passion for creating outstanding user interfaces.
 
-## Overview
+## Overview(https://kadam-shoes.onrender.com/))
 
 Kadam Shoes is a fully responsive e-commerce platform that provides a seamless shopping journey for users. It combines a visually appealing frontend with powerful backend technologies to offer lightning-fast loading times and efficient inventory management.
 
-🚀 **[Explore Backend Demo]([https://kadam-shoes.vercel.app/](https://kadam-shoes.onrender.com/))**
+🚀 **[Explore Backend Demo](https://kadam-shoes.onrender.com/)**
 
 ## Features
 
